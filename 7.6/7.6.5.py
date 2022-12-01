@@ -1,0 +1,1 @@
+#Python nie ma granicy zmiennej Intager
